@@ -1,0 +1,445 @@
+@media (min-width: 1200px) {
+  .slider-content h1 {
+    font-size: 75px;
+  }
+  .about-wrapper-tittle h2 {
+    margin-bottom: 18px;
+    font-size: 40px;
+  }
+  .about-info-list span {
+    font-size: 18px;
+  }
+  .author-content h3 {
+    font-size: 24px;
+  }
+  .brand-text h3 {
+    font-size: 40px;
+  }
+  .our-map {
+    transform: translateX(15px);
+  }
+  .slider-content {
+    margin-left: 50px;
+  }
+  .transparent-header {
+    padding: 0 80px;
+  }
+}
+@media (max-width: 1200px) {
+  .pl-105 {
+    padding-left: 0;
+  }
+  .pr-105 {
+    padding-right: 0;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .transparent-header {
+    padding: 0 50px;
+  }
+  .main-menu ul li {
+    margin-right: 20px;
+  }
+  .header-cta {
+    font-size: 12px;
+  }
+  .slider-content {
+    margin-left: 20px;
+  }
+  .transparent-header {
+    padding: 0 50px;
+  }
+  .slider-content h1 {
+    font-size: 60px;
+  }
+  .features-content h3 {
+    font-size: 25px;
+  }
+  .about-wrapper {
+    padding-left: 0;
+  }
+  .about-wrapper-tittle h2 {
+    margin-bottom: 50px;
+  }
+
+  .dr-content h3 {
+    margin-bottom: 15px;
+  }
+  .dr-content h4 {
+    margin-bottom: 15px;
+  }
+  .dr-content p {
+    margin-bottom: 13px;
+  }
+  .slick-active .portfolio-item .portfolio-bottom-tittle {
+    padding: 20px 14px;
+  }
+  .slick-active .portfolio-bottom-tittle h3 {
+    font-size: 20px;
+  }
+  .pricing-rate {
+    transform: translate(35%, -50%);
+  }
+  .white-content h3 {
+    font-size: 28px;
+  }
+  .brand-text h3 {
+    padding: 20px;
+  }
+  .contact-area {
+    padding-left: 0px;
+  }
+  .counter-item span {
+    font-size: 24px;
+  }
+  .testimonial-author h3 {
+    font-size: 22px;
+    margin: 0;
+  }
+  .testimonial-author span {
+    font-size: 12px;
+  }
+  .testimonial-bg-img {
+    height: 850px;
+  }
+  .owl-carousel .owl-nav div.owl-next {
+    right: -45px;
+  }
+  .owl-carousel .owl-nav div.owl-prev {
+    left: -45px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .about-wrapper-tittle h2 {
+    margin-bottom: 20px;
+  }
+  .features-section .row .col-xl-4 {
+    text-align: center;
+    border-right: 0;
+    border-bottom: 2px solid #fff;
+  }
+  .features-section .row .col-xl-4 {
+    text-align: center;
+    border-right: 0;
+    border-bottom: 2px solid #fff;
+  }
+  .dr-sign {
+    margin-bottom: 50px;
+  }
+  .appointment-area {
+    transform: translateY(0);
+    padding-top: 50px;
+  }
+  .counter-box {
+    padding: 50px;
+  }
+  .slick-active .portfolio-item .portfolio-bottom-tittle {
+    padding: 10px 5px;
+  }
+  .slick-active .portfolio-item .portfolio-bottom-tittle {
+    bottom: 0;
+    left: 0;
+  }
+  .slick-active .portfolio-bottom-tittle h3 {
+    font-size: 21px;
+  }
+  .slick-active .portfolio-item .portfolio-bottom-tittle i {
+    width: 50px;
+    font-size: 18px;
+    line-height: 50px;
+  }
+  .pricing-img img {
+    width: 100%;
+  }
+  .pricing-rate {
+    transform: translate(170%, -50%);
+  }
+  .contact-area {
+    padding-left: 0;
+  }
+  .our-map {
+    transform: translateX(0);
+  }
+  .brand-text {
+    margin-bottom: 50px;
+  }
+  .about-wrapper {
+    padding-left: 0;
+  }
+  .slider-content {
+    padding: 100px;
+    margin-left: 0;
+    margin-top: 70px;
+  }
+  .transparent-header {
+    padding: 20px 50px;
+  }
+  .menu-md {
+    display: none;
+  }
+  .slider-content h1 {
+    font-size: 60px;
+    margin-bottom: 50px;
+  }
+  .contact-form .s-btn {
+    border: 0;
+    margin-bottom: 50px;
+  }
+
+  .owl-carousel .owl-nav div {
+    background: none;
+    border: none;
+    font-size: 20px;
+  }
+  .owl-carousel .owl-nav div:hover {
+    background: none;
+    color: #f8a683;
+  }
+  .owl-carousel .owl-nav div.owl-next {
+    right: -30px;
+  }
+  .owl-carousel .owl-nav div.owl-prev {
+    left: -30px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .slider-content {
+    padding: 50px;
+    margin-left: 0;
+    margin-top: -50px;
+  }
+  .slider-content h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
+  .features-section .row .col-xl-4 {
+    text-align: center;
+    border-right: 0;
+    border-bottom: 2px solid #fff;
+  }
+  .transparent-header {
+    padding: 20px 0;
+  }
+  .menu-md {
+    display: none;
+  }
+  .about-wrapper-tittle h2 {
+    font-size: 35px;
+    margin-bottom: 40px;
+  }
+  .service-area-content h2 {
+    font-size: 30px;
+  }
+  .services-img img {
+    width: 100%;
+  }
+  .dr-sign {
+    padding-bottom: 50px;
+  }
+  .counter-list-box:after {
+    right: 55%;
+  }
+  .counter-box {
+    padding: 50px 20px;
+  }
+  .pricing-rate {
+    transform: translate(110%, -50%);
+  }
+  .contact-area {
+    padding-left: 0;
+  }
+  .our-map {
+    transform: translateX(0px);
+  }
+  .brand-text {
+    margin-bottom: 50px;
+  }
+  .pl-105 {
+    padding-left: 0;
+  }
+  .pr-105 {
+    padding-right: 0;
+  }
+  .appointment-area {
+    transform: translateY(0);
+    padding-top: 50px;
+  }
+  .pricing-img img {
+    width: 100%;
+  }
+  .testimonial-area .owl-nav {
+    display: none;
+  }
+}
+@media (max-width: 575px) {
+  .header-bar {
+    margin-left: 5px !important;
+  }
+  .features-section .row .col-xl-4 {
+    text-align: center;
+    border-right: 0;
+    border-bottom: 2px solid #fff;
+  }
+  .features-content h3 {
+    font-size: 25px;
+  }
+  .about-content h4 {
+    font-size: 12px;
+  }
+  .about-wrapper-tittle h2 {
+    font-size: 40px;
+  }
+  .appointment-box h3 {
+    padding: 40px 20px;
+    font-size: 40px;
+  }
+  .counter-box-tittle h3 {
+    font-size: 40px;
+  }
+  .counter-item h3 {
+    font-size: 30px;
+  }
+  .counter-item span {
+    font-size: 20px;
+  }
+  .mb-90 {
+    margin-bottom: 30px;
+  }
+  .pricing-rate {
+    transform: translate(116%, -50%);
+  }
+  .pricing-img img {
+    width: 100%;
+  }
+  .transparent-header {
+    padding: 25px;
+  }
+  .menu-md {
+    display: none;
+  }
+  .slider-content {
+    padding: 50px;
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .slider-content h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
+  .about-info-list span {
+    font-size: 25px;
+  }
+  .mt-40 {
+    margin-top: 0;
+  }
+  .service-area-content h2 {
+    font-size: 40px;
+  }
+  .services-box .services-img img {
+    width: 100%;
+  }
+  .s-btn {
+    height: 60px;
+    padding: 0 30px;
+    line-height: 55px;
+  }
+  .appointment-area {
+    transform: translateY(0px);
+    margin-top: 50px;
+  }
+  .dr-sign {
+    padding-bottom: 50px;
+  }
+  .contact-area {
+    padding-left: 0;
+  }
+  .contact-form .s-btn {
+    border: 0;
+    margin-bottom: 50px;
+  }
+  .brand-text h3 {
+    background: #056c5f;
+    color: #fff;
+    padding: 35px;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 25px;
+  }
+  .dr-content h3 {
+    font-size: 40px;
+  }
+  .counter-box {
+    padding: 50px 20px 0;
+  }
+  .slick-active .portfolio-bottom-tittle h3 {
+    font-size: 25px;
+  }
+  .testimonial-area .owl-nav {
+    display: none;
+  }
+}
+@media (max-width: 475px) {
+  .pricing-rate {
+    transform: translate(65%, -50%);
+  }
+  .counter-list-box:after {
+    right: 52%;
+  }
+  .slick-active .portfolio-item .portfolio-bottom-tittle {
+    padding: 20px 15px;
+  }
+  .header-cta span a {
+    font-size: 15px;
+  }
+  .about-wrapper-tittle h2 {
+    font-size: 30px;
+  }
+  .service-area-content h2 {
+    font-size: 30px;
+  }
+  .counter-box-tittle h3 {
+    font-size: 30px;
+  }
+  .service-area-content h2 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 375px) {
+  .slider-content h1 {
+    font-size: 30px;
+  }
+  .s-btn {
+    height: 60px;
+    padding: 0 30px;
+    line-height: 55px;
+  }
+  .header-cta span a {
+    font-size: 12px;
+  }
+  .pricing-rate {
+    transform: translate(50%, -50%);
+  }
+  .counter-item span {
+    font-size: 15px;
+  }
+}
+@media (max-width: 320px) {
+  .pricing-rate {
+    transform: translate(35%, -50%);
+  }
+  .slick-active .portfolio-item .portfolio-bottom-tittle {
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+    padding: 15px 25px;
+  }
+  .slick-active .portfolio-bottom-tittle h3 {
+    margin: 0;
+    font-size: 20px;
+    margin-right: 69px;
+  }
+  .slick-active .portfolio-item .portfolio-bottom-tittle i {
+    width: 50px;
+    line-height: 60px;
+  }
+}
